@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/movieTime/static/css/main.097b55c0.css",
+    "main.js": "/movieTime/static/js/main.3fcfbc94.js",
+    "index.html": "/movieTime/index.html",
+    "static/media/search.svg": "/movieTime/static/media/search.b416605642fcb3f2447edc96c1a80e05.svg",
+    "main.097b55c0.css.map": "/movieTime/static/css/main.097b55c0.css.map",
+    "main.3fcfbc94.js.map": "/movieTime/static/js/main.3fcfbc94.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.097b55c0.css",
+    "static/js/main.3fcfbc94.js"
+  ]
+}
